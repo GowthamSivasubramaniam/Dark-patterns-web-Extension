@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Cyber Safe",
+    "version": "1.0",
+    "description": "E-commerce Dark pattern Identifier",
+    "action": {
+      "default_icon": "icon.jpg",
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  

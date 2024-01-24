@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Extension</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: rgb(8, 8, 8);
+      height: auto;
+    }
+    #card
+    {
+      display:none;
+      width:350px;
+      height:auto;
+      background:rgb(49, 48, 48);
+      border-width: 2px;
+      box-shadow: 2px,3px,0px,0px;
+      border-radius: 30px;
+      font-size: 0.8em;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      justify-content: center;
+      padding-left: 50px;
+      text-align: justify;
+      line-height: 30px;
+    
+    }
+  </style>
+</head>
+<body style="width:90%;border-radius: 15px;"> 
+  <center><h1 style="color: aliceblue; font-family: Nunito;" >Cyber<span style="color: green;">S</span>Afe</h1></center>
+  <center><marquee style="width: 200px;"><h1 style="width: 150px; font-size: 1.3em; color: rgb(210, 80, 80);">Let's find deception</h1></marquee> </center>
+  <center><h1 id="resultText1" style="color: rgb(67, 67, 209); width:400px;"></h1></center>
+  <center> <h1 id="resultText" style="color: rgb(67, 67, 209); width:400px;" >Wait for sometime....</h1> </center>
+  <div id="card">
+  <h1 id="resultText2" style="color: rgb(250, 247, 247); width:300px; margin-left: 90px;" ></h1>
+  <h2 id="resultText3" style="color: rgba(255, 254, 254, 0.952); width:300px;" ></h2> 
+  <h1 id="resultText4" style="color: rgb(254, 251, 251); width:300px; width:300px;margin-left: 90px;" ></h1>
+  <h2 id="resultText5"  style="color:  rgba(255, 254, 254, 0.952); width:300px;" ></h2>
+</div>
+  <script src="popup.js"></script>
+</body>
+</html>
