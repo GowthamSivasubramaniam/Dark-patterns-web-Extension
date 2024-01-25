@@ -12,8 +12,9 @@
     * navigate tho the directory where "manifest.json ,popup.js,popup.html" are located and load them.
     * Now your extention is created and you go to any e-commerce website and check for Dark pattern.
 # Outputs
+      
+    
 
-    <img width="400px" src="https://github.com/GowthamSivasubramaniam/Dark-patterns-web-Extension/assets/125996125/3499db6c-c56a-4d26-8d62-66a8bcbe456b" >
-    <img width="400px" src="https://github.com/GowthamSivasubramaniam/Dark-patterns-web-Extension/assets/125996125/1630c11c-0a98-4a17-81e0-5855971aae9b" >
 
-
+![Screenshot (378)](https://github.com/GowthamSivasubramaniam/Dark-patterns-web-Extension/assets/125996125/a4d7cd0c-149c-41d0-a79c-91e6197e5b6c)
+![Screenshot (377)](https://github.com/GowthamSivasubramaniam/Dark-patterns-web-Extension/assets/125996125/76eb5500-0699-49ae-81bd-aa9b1a4c4290)
